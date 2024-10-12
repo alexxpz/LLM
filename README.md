@@ -1,0 +1,1 @@
+Personal project for hands-on experience with LLM, fine-tuning and usecase using Mistral-7b
